@@ -30,6 +30,7 @@ body {
 }
 
 .gallery img {
+    border-radius: 10px;
     object-fit: cover;
     width: 100%;
     max-width: 350px;
